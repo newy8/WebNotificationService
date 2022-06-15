@@ -1,4 +1,4 @@
-# NotifyR
+# Web Notification Service
 
 Send web push notifications to any platform from any back end
 
